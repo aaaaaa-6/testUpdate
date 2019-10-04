@@ -1,2 +1,2 @@
 class Program:
-  version = 1
+  version = "0.3"
