@@ -1,2 +1,2 @@
-class Programm:
+class Program:
   version = 1
